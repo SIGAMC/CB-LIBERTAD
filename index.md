@@ -10,7 +10,7 @@
     <a-scene>
       <a-sky src="CB_LIBERTAD.jpg" rotation="0 -90 0"></a-sky>
 
-      <a-text font="kelsonsans" value="CORAZòN DE BARRIO LIBERTAD" width="6" position="-1.5 0.3 -2.5"
+      <a-text font="kelsonsans" value="CORAZÒN DE BARRIO LIBERTAD" width="6" position="-1.5 0.3 -2.5"
               rotation="0 1 -0.5"></a-text>
     </a-scene>
   </body>
